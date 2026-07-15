@@ -306,7 +306,7 @@ padding: 4rem 5%;
 
 <!-- Hero Section -->
 <header class="hero" id="home">
-<h1>Clarity in Strategy. Precision in Execution of Daily Operations.</h1>
+<h1>Clarity in Strategy. Precision in the Execution of Daily Operations.</h1>
 <p>America’s premier consulting firm driving strategic innovation, and operational excellence for businesses and individuals nationwide. We will help you get where you are going knowing WHAT is driving you. </p>
 <a href="#contact" class="btn">Know What</a>
 </header>
