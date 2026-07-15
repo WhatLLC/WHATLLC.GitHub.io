@@ -308,7 +308,7 @@ padding: 4rem 5%;
 <header class="hero" id="home">
 <h1>Clarity in Strategy. Precision in Execution of Daily Operations.</h1>
 <p>America’s premier consulting firm driving strategic innovation, and operational excellence for businesses and individuals nationwide. We will help you get where you are going knowing WHAT is driving you. </p>
-<a href="#contact" class="btn">Partner With Us</a>
+<a href="#contact" class="btn">Know What</a>
 </header>
 
 <!-- Services Section -->
@@ -318,7 +318,7 @@ padding: 4rem 5%;
 <div class="service-card">
 <i class="fa-solid fa-chart-line"></i>
 <h3>Strategic Planning</h3>
-<p>We build and design custom tailored long-term corporate strategic solutions to navigate shifting market demands.</p>
+<p>We build custom designed and tailored long-term strategic solutions to navigate shifting market demands.</p>
 </div>
 <div class="service-card">
 <i class="fa-solid fa-gears"></i>
@@ -327,7 +327,7 @@ padding: 4rem 5%;
 </div>
 <div class="service-card">
 <i class="fa-solid fa-arrow-up-right-dots"></i>
-<h3>Growth & Scaling</h3>
+<h3>Driven Growth</h3>
 <p>Actionable expansion blueprints, financial forecasting, specializing in organic growth and comprehensive market entry analysis for ambitious brands.</p>
 </div>
 </div>
@@ -340,7 +340,7 @@ padding: 4rem 5%;
 <p class="about-lead">Based against the rugged backdrop of America, <strong>WHAT LLC</strong> embodies the relentless, grounded, and forward-thinking spirit of Freedom.</p>
 <p>We are a premier consulting firm serving clients locally and across the United States.</p>
 <p>We cut through the noise to deliver blunt, high-utility solutions.</p>
-<p>Our mission is built on answering the question of WHAT:</p>
+<p>Our mission is built on answering the question of WHAT.</p>
 <p><em>WHAT is your next move.</em></p>
 </div>
 </section>
