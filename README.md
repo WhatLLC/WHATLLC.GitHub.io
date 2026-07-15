@@ -340,14 +340,14 @@ padding: 4rem 5%;
 <p class="about-lead">Based against the rugged backdrop of America, <strong>WHAT LLC</strong> embodies the relentless, grounded, and forward-thinking spirit of Freedom.</p>
 <p>We are a premier consulting firm serving clients locally and across the United States.</p>
 <p>We cut through the noise to deliver blunt, high-utility solutions.</p>
-<p>Our mission is built on answering the question of WHAT.</p>
-<p><em>WHAT is your next move.</em></p>
+<p>Our mission is built on answering the question of <strong>WHAT</strong>.</p>
+<p><em><strong>WHAT</strong> is your next move.</em></p>
 </div>
 </section>
 
 <!-- Contact Section -->
 <section id="contact">
-<h2 class="section-title">Get Informed about WHAT</h2>
+<h2 class="section-title">Get Informed About WHAT</h2>
 <div class="contact-container">
 <div class="contact-info">
 <h3>Let's Solve What</h3>
